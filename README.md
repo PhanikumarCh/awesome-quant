@@ -160,6 +160,7 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 
 ### Data Visualization
 - [matplotlib](https://matplotlib.org/) - Matplotlib is the first Python data visualization library, many other libraries are built on top of it or designed to work in tandem with it during analysis.
+- [D-tale](https://github.com/man-group/dtale) - D-Tale is the combination of a Flask back-end and a React front-end to bring you an easy way to view & analyze Pandas data structures.
 - [Seaborn](https://github.com/mwaskom/seaborn) - Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
 - [plotly](https://github.com/plotly/plotly.py) - interactive, open-source, and browser-based graphing library for Python
 -[bokeh](https://github.com/bokeh/bokeh) - interactive visualization library for modern web browsers
