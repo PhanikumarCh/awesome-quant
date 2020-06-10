@@ -120,7 +120,8 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 - [pandas_market_calendars](https://github.com/rsheftel/pandas_market_calendars) - Exchange calendars to use with pandas for trading applications.
 
 ### Data Sources
-
+- [nsepy](https://github.com/swapniljariwala/nsepy) - Python Library to get publicly available data on NSE website ie. stock quotes, historical data, live indices.
+- [nsetools](https://github.com/vsjha18/nsetools) - Python library for extracting realtime data from National Stock Exchange (India)
 - [findatapy](https://github.com/cuemacro/findatapy) - Python library to download market data via Bloomberg, Quandl, Yahoo etc.
 - [googlefinance](https://github.com/hongtaocai/googlefinance) - Python module to get real-time stock data from Google Finance API.
 - [yahoo-finance](https://github.com/lukaszbanasiak/yahoo-finance) - Python module to get stock data from Yahoo! Finance.
@@ -156,6 +157,12 @@ A curated list of insanely awesome libraries, packages and resources for Quants 
 - [metatrader5](https://pypi.org/project/MetaTrader5/) - API Connector to MetaTrader 5 Terminal
 - [akshare](https://github.com/jindaxiang/akshare) - AkShare is an elegant and simple financial data interface library for Python, built for human beings! <https://akshare.readthedocs.io>
 - [yahooquery](https://github.com/dpguthrie/yahooquery) - Python interface for retrieving data through unofficial Yahoo Finance API.
+
+### Data Visualization
+- [matplotlib](https://matplotlib.org/) - Matplotlib is the first Python data visualization library, many other libraries are built on top of it or designed to work in tandem with it during analysis.
+- [Seaborn](https://github.com/mwaskom/seaborn) - Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
+- [plotly](https://github.com/plotly/plotly.py) - interactive, open-source, and browser-based graphing library for Python
+-[bokeh](https://github.com/bokeh/bokeh) - interactive visualization library for modern web browsers
 
 ### Excel Integration
 
